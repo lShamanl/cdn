@@ -1,0 +1,1 @@
+localStorage.setItem("crm-integrator-config",JSON.stringify({projectId:1,publicProjectToken:"$2y$10$lcZ9X3Ae2uvPwYAXpuWX.u8Pi02iiC4pZfagdRHufrUnAnJYlj19q",oneFormOneSend:!0,debug:!0}));
